@@ -15,8 +15,8 @@ While sitting on the potty the user can simply scroll through a selection of gol
 # Impressions
 ***The scroller in action***
 
-<img src='https://github.com/moritzgeiger/MemeScroller/blob/master/img/scrollingmemes.gif>
+<img src='https://github.com/moritzgeiger/MemeScroller/blob/master/img/scrollingmemes.gif'>
 
 ***The scroller in composition with the bathroom furniture***
 
-<img src='https://github.com/moritzgeiger/MemeScroller/blob/master/img/enseble.jpeg' width="600" height="340">>
+<img src='https://github.com/moritzgeiger/MemeScroller/blob/master/img/enseble.jpeg' width="400" height="300">
