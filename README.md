@@ -1,6 +1,6 @@
 # Project
 To make your visit at our toilet more enjoyable and entertaining we have designed the ultimate meme scroller device.
-While sitting on the potty the user can simply scroll through a selection of golden memes of the internet -- without having to usee the internet. 
+While sitting on the potty the user can simply scroll through a selection of golden memes of the internet -- without having to use the internet. 
 
 # Tools
 - An old Edradour SFTC Whisky box serves as a framework. 
